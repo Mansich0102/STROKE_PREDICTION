@@ -32,7 +32,7 @@ Description about Features :
 7.  Testing
 
 
-For this project 5 Model Selected"
+For this project 5 Model Selected
 1) Logistic Regression
 2) Decision Tree Classifier
 3) Random Forest Classifier
@@ -41,7 +41,7 @@ For this project 5 Model Selected"
 6) K Neighbors Classifier
 
    
-Out of all model Gaussian Naive Bayes selected as best model 
+Out of all model "Gaussian Naive Bayes" selected as best model 
 
 
 
