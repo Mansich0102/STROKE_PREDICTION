@@ -7,7 +7,7 @@ Dataset used from Kaggle Website
 [Dataset link](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 Description about Features :
-|Sr.no|Feature name|Description |
+|Sr.no|Features name|Description |
  |-|-|-|
 |1)|id| An identifier for each individual in the dataset|
 |2)|gender| The gender of the individual (Male/Female)|
@@ -22,7 +22,7 @@ Description about Features :
 |11)|smoking_status| The smoking status of the individual (e.g., formerly smoked, never smoked)|
 |12)|stroke|The target variable indicating whether the individual had a stroke (1 if true, 0 if false|
 
- ## Step performed 
+ ## Steps performed 
 1.  Data Understanding 
 2.  Data Cleaning
 3.  Data Visualization
@@ -39,6 +39,8 @@ For this project 5 Model Selected"
 4) Support Vector Classifier
 5) Gaussian Naive Bayes
 6) K Neighbors Classifier
+
+   
 Out of all model Gaussian Naive Bayes selected as best model 
 
 
