@@ -1,6 +1,9 @@
 # STROKE PREDICTION
+
+## Overview
 The goal of this project is to develop an effective model for predicting the likelihood of strokes in individuals within a healthcare dataset
- 
+## Dataset
+![dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
  ## Step performed 
  |Step no|Name|
  |-|-|
