@@ -6,6 +6,7 @@ The goal of this project is to develop an effective model for predicting the lik
 2. Data Cleaning
 3. Data Visualization
 4. Data Preprocessing
+   
  ![Data_preprocessing](https://github.com/Mansich0102/STROKE_PREDICTION/blob/main/Data_preprocessing.png)
 5. Model Selection
 6. Model Comparison
