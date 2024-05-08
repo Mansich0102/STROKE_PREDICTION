@@ -22,6 +22,24 @@ Description about Features :
 |11)|smoking_status| The smoking status of the individual (e.g., formerly smoked, never smoked)|
 |12)|stroke|The target variable indicating whether the individual had a stroke (1 if true, 0 if false|
 
+ ## Step performed 
+1.  Data Understanding 
+2.  Data Cleaning
+3.  Data Visualization
+4.  Data Preprocessing
+5.  Model Selection
+6.  Model Comparison
+7.  Testing
+
+
+For this project 5 Model Selected"
+1) Logistic Regression
+2) Decision Tree Classifier
+3) Random Forest Classifier
+4) Support Vector Classifier
+5) Gaussian Naive Bayes
+6) K Neighbors Classifier
+Out of all model Gaussian Naive Bayes selected as best model 
 
 
 
