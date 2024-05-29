@@ -32,7 +32,7 @@ Description about Features :
 7.  Testing
 
 
-For this project 5 Model Selected
+ ML  Model - 
 1) Logistic Regression
 2) Decision Tree Classifier
 3) Random Forest Classifier
